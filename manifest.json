@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Internet Connection Details",
+    "description": "Get details about your internet connection.",
+    "version": "1.0",
+    "permissions": [
+      "storage"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "speed.png"
+    },
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
+  
