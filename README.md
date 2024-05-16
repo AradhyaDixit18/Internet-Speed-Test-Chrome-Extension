@@ -1,6 +1,6 @@
 # Internet Connection Details Chrome Extension
 
-![Extension Icon](icon.png)
+![Extension Icon](speed.png)
 
 ## Overview
 
